@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Korea
     description: "Korea Government Open Data"
     humanURL: https://www.data.go.kr/
-    baseURL: https://www.data.go.kr/
     tags:
       - Government
     properties:
